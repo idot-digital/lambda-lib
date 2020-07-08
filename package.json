@@ -1,0 +1,16 @@
+{
+    "name": "lambda-lib",
+    "version": "1.0.1",
+    "description": "Some helper functions for lambda",
+    "main": "lib.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/idot-software/lambda-lib.git"
+    },
+    "author": "iDot digital",
+    "license": "UNLICENSED",
+    "homepage": "https://github.com/idot-software/lambda-lib",
+    "dependencies": {
+      "jsonwebtoken": "^8.5.1"
+    }
+  }
